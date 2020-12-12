@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>devApiTwo</name>
+    </assembly>
+    <members>
+        <member name="M:devApiTwo.Controllers.ControllerCalculajuros.Get(System.Single,System.Int32)">
+            <summary>
+            Metodo Calcula Juros com dois parametros de entrada.
+            </summary>
+            <returns>
+            Retorna o calculo de juros.
+            </returns>
+        </member>
+        <member name="M:devApiTwo.Controllers.ControllerShowmethecode.GetRepository">
+            <summary>
+            Metodo que retorna uma Url do repositório dos fontes no github.
+            </summary>
+            <returns>
+            Retorna url do repositório dos fontes no github.
+            </returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>devApiOne</name>
+    </assembly>
+    <members>
+        <member name="M:devApiOne.Controllers.ControllerTaxajuros.Get">
+            <summary>
+            Metodo Taxa de juros.
+            </summary>
+            <returns>
+            Retorna a taxa de juros.
+            </returns>
+        </member>
+    </members>
+</doc>
